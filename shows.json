@@ -2,7 +2,7 @@
   "shows": [
     {
       "date": "2026-10-17",
-      "time": 1930,
+      "time": "1930",
       "show": "LA Tech Week",
       "venue": "Surly Goat",
       "city": "Los Angeles",
@@ -11,7 +11,7 @@
     },
     {
       "date": "2026-10-21",
-      "time": 1930,
+      "time": "1930",
       "show": "Girly Pop",
       "venue": "Werx",
       "city": "Long Beach",
@@ -20,7 +20,7 @@
     },
     {
       "date": "2026-10-24",
-      "time": 1900,
+      "time": "1900",
       "show": "Alphabet Comedy",
       "venue": "Backyard",
       "city": "Long Beach",
@@ -29,7 +29,7 @@
     },
     {
       "date": "2026-11-05",
-      "time": 1900,
+      "time": "1900",
       "show": "Comedy by the Slice",
       "venue": "Hermosa Pizza",
       "city": "Hermosa Beach",
@@ -38,7 +38,7 @@
     },
     {
       "date": "2026-11-06",
-      "time": 1200,
+      "time": "1200",
       "show": "Sora University",
       "venue": "Soka University",
       "city": "Aliso Viejo",
@@ -47,7 +47,7 @@
     },
     {
       "date": "2026-11-06",
-      "time": 1830,
+      "time": "1830",
       "show": "Mental Standup",
       "venue": "Majestic",
       "city": "San Pedro",
@@ -56,8 +56,8 @@
     },
     {
       "date": "2026-11-07",
-      "time": 1900,
-      "show": "Astronaut ",
+      "time": "1900",
+      "show": "Astronaut",
       "venue": "Astronaut City",
       "city": "Arcadia",
       "region": "CA",
@@ -65,7 +65,7 @@
     },
     {
       "date": "2026-11-09",
-      "time": 2000,
+      "time": "2000",
       "show": "Nice Bits",
       "venue": "Lyric Hyperion",
       "city": "Los Angeles",
@@ -74,7 +74,7 @@
     },
     {
       "date": "2026-11-11",
-      "time": 1930,
+      "time": "1930",
       "show": "Boston Comedy Festival",
       "venue": "City Winery",
       "city": "Boston",
@@ -83,7 +83,7 @@
     },
     {
       "date": "2026-11-21",
-      "time": 1900,
+      "time": "1900",
       "show": "Alphabet Comedy",
       "venue": "Bixby Knolls",
       "city": "Long Beach",
@@ -92,7 +92,7 @@
     },
     {
       "date": "2026-11-28",
-      "time": 1900,
+      "time": "1900",
       "show": "Rock Gal Show",
       "venue": "Rock Gallery",
       "city": "Palm Springs",
@@ -101,8 +101,8 @@
     },
     {
       "date": "2026-12-05",
-      "time": 1900,
-      "show": "Kensington ",
+      "time": "1900",
+      "show": "Kensington",
       "venue": "Kensington Heights",
       "city": "San Diego",
       "region": "CA",
