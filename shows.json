@@ -1,15 +1,6 @@
 {
   "shows": [
     {
-      "date": "2026-10-22",
-      "time": "2000",
-      "show": "No Gimmx",
-      "venue": "The Pack Theater",
-      "city": "Los Angeles",
-      "region": "CA",
-      "tickets": ""
-    },
-    {
       "date": "2026-10-24",
       "time": "1900",
       "show": "Alphabet Comedy",
