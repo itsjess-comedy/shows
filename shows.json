@@ -19,6 +19,15 @@
       "tickets": "https://www.flapperscomedy.com/site/shows.php?event_id=77619"
     },
     {
+      "date": "2026-11-01",
+      "time": "1600",
+      "show": "Women in STEM",
+      "venue": "Lyric Hyperion",
+      "city": "Los Angeles",
+      "region": "CA",
+      "tickets": ""
+    },
+    {
       "date": "2026-11-05",
       "time": "1900",
       "show": "Comedy by the Slice",
