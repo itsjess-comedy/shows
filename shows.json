@@ -1,15 +1,6 @@
 {
   "shows": [
     {
-      "date": "2026-10-24",
-      "time": "1900",
-      "show": "Alphabet Comedy",
-      "venue": "Backyard",
-      "city": "Long Beach",
-      "region": "CA",
-      "tickets": "https://partiful.com/e/zKr4zuojAjZykGowzRmy"
-    },
-    {
       "date": "2026-10-25",
       "time": "1930",
       "show": "Eddie Pence",
