@@ -1,15 +1,6 @@
 {
   "shows": [
     {
-      "date": "2026-10-25",
-      "time": "1930",
-      "show": "Eddie Pence",
-      "venue": "Flappers",
-      "city": "Burbank",
-      "region": "CA",
-      "tickets": "https://www.flapperscomedy.com/site/shows.php?event_id=77619"
-    },
-    {
       "date": "2026-11-01",
       "time": "1600",
       "show": "Women in STEM",
