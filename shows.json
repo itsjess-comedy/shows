@@ -80,6 +80,15 @@
       "city": "San Diego",
       "region": "CA",
       "tickets": ""
+    },
+    {
+      "date": "2026-12-07",
+      "time": "1930",
+      "show": "Comedy Trend",
+      "venue": "Flappers",
+      "city": "Burbank",
+      "region": "CA",
+      "tickets": ""
     }
   ]
 }
