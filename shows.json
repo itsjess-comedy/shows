@@ -1,15 +1,6 @@
 {
   "shows": [
     {
-      "date": "2026-11-05",
-      "time": "1900",
-      "show": "Comedy by the Slice",
-      "venue": "Pedrones Pizza",
-      "city": "Hermosa Beach",
-      "region": "CA",
-      "tickets": ""
-    },
-    {
       "date": "2026-11-07",
       "time": "1900",
       "show": "Astronaut",
