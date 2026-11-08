@@ -1,15 +1,6 @@
 {
   "shows": [
     {
-      "date": "2026-11-07",
-      "time": "1900",
-      "show": "Astronaut",
-      "venue": "Astronaut City",
-      "city": "Arcadia",
-      "region": "CA",
-      "tickets": ""
-    },
-    {
       "date": "2026-11-09",
       "time": "2000",
       "show": "Nice Bits",
