@@ -1,15 +1,6 @@
 {
   "shows": [
     {
-      "date": "2026-11-09",
-      "time": "2000",
-      "show": "Nice Bits",
-      "venue": "Lyric Hyperion",
-      "city": "Los Angeles",
-      "region": "CA",
-      "tickets": "https://punchup.live/show/f9562511-cf36-49dc-b2a3-86cd0e329ab8"
-    },
-    {
       "date": "2026-11-11",
       "time": "1930",
       "show": "Boston Comedy Festival",
