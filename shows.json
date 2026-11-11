@@ -44,6 +44,15 @@
       "city": "Burbank",
       "region": "CA",
       "tickets": ""
+    },
+    {
+      "date": "2026-12-12",
+      "time": "2000",
+      "show": "Night Parade",
+      "venue": "Night Parade Brewery",
+      "city": "San Diego",
+      "region": "CA",
+      "tickets": ""
     }
   ]
 }
