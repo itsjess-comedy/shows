@@ -44,6 +44,15 @@
       "city": "San Diego",
       "region": "CA",
       "tickets": ""
+    },
+    {
+      "date": "2026-12-19",
+      "time": "1900",
+      "show": "Alphabet Comedy",
+      "venue": "Bixby Knolls",
+      "city": "Long Beach",
+      "region": "CA",
+      "tickets": ""
     }
   ]
 }
