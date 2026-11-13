@@ -1,6 +1,15 @@
 {
   "shows": [
     {
+      "date": "2026-11-12",
+      "time": "1900",
+      "show": "Pop Up Live",
+      "venue": "Nick’s Comedy Stop",
+      "city": "Boston",
+      "region": "MA",
+      "tickets": "https://www.nickscomedystop.com/event-details/boston-comedy-festival-pop-up-live-comedy-show-friday-11-13"
+    },
+    {
       "date": "2026-11-21",
       "time": "1900",
       "show": "Alphabet Comedy",
